@@ -1,0 +1,30 @@
+﻿\[\[wikt:┴\]\]
+{{Redirect2┴}}
+#REDIRECT┴}}
+#REDIRECT┴\]\]
+{{Distinguish┴}}
+{{Redirect┴}}
+{{primary sources\|┴}}
+{{Other uses}}┴
+{{┴sidebar}}
+{{ref\|┴}}
+# With the exception of North Northern┴
+:{{note┴}}
+{{cn\|date┴}}
+{{Infobox language(\n.*)*?\n}}┴
+{{navboxes(\n.*)*?\n}}┴
+{{Collapsible list(\n.*)*?\n}}┴
+&lt;ref&gt;┴&lt;/ref&gt;
+&lt;ref name=&quot;definition&quot;&gt;┴&lt;/ref&gt;
+\[http://┴\]
+Comments: &lt;!--┴--&gt;
+{{convert\|2.4\|GHz\|cm}}┴
+{{cite book \|┴}}
+{{cite journal \|┴}}
+{{cite web \|┴}}
+{{lang\|┴}}
+\[\[Image:┴\]\]
+\[\[File:┴\]\]
+{{Portal bar\|┴}}
+<redirect title=┴>
+{\| class=&quot;wikitable&quot;(\n.*)*?\n.*?\|}┴
